@@ -1,4 +1,4 @@
-# Bettle Graphics
+# Beettle Graphics
 A simple C++ program and algorithm to mimic a beetle's movement, then to draw its determined path into graphics  on Command Prompt by using a series of commands (cmds). It is similar to the "Turtle Graphics", the Logo language. 
 
 ## Instructions
